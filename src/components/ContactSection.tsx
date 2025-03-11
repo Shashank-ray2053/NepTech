@@ -114,7 +114,7 @@ const ContactSection = () => {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 rounded-lg border border-neptech-dark/10 focus:border-neptech-blue focus:outline-none focus:ring-2 focus:ring-neptech-blue/20 transition-all duration-300"
-                    placeholder="John Doe"
+                    placeholder="Enter your Name"
                   />
                 </div>
                 <div>
@@ -129,7 +129,7 @@ const ContactSection = () => {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 rounded-lg border border-neptech-dark/10 focus:border-neptech-blue focus:outline-none focus:ring-2 focus:ring-neptech-blue/20 transition-all duration-300"
-                    placeholder="john@example.com"
+                    placeholder="email@example.com"
                   />
                 </div>
               </div>
@@ -207,8 +207,8 @@ const ContactSection = () => {
                   <div>
                     <h4 className="text-lg font-medium text-neptech-dark">Our Location</h4>
                     <p className="text-neptech-dark/70">
-                      123 Tech Street, Silicon Valley<br />
-                      California, 94025
+                      Jadibuti, Kahtmandu<br />
+                      Nepal, 44600
                     </p>
                   </div>
                 </div>
@@ -233,7 +233,7 @@ const ContactSection = () => {
                   <div>
                     <h4 className="text-lg font-medium text-neptech-dark">Call Us</h4>
                     <p className="text-neptech-dark/70">
-                      <a href="tel:+15551234567" className="hover:text-neptech-blue transition-colors">+1 (555) 123-4567</a><br />
+                      <a href="tel:+15551234567" className="hover:text-neptech-blue transition-colors">+977-9844418804</a><br />
                       <a href="tel:+15559876543" className="hover:text-neptech-blue transition-colors">+1 (555) 987-6543</a>
                     </p>
                   </div>

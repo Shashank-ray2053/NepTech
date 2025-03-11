@@ -188,13 +188,13 @@ const Footer = () => {
                 <li className="flex items-start">
                   <MapPin className="mr-3 text-purple-400 flex-shrink-0" size={18} />
                   <span className="text-white/70">
-                    123 Tech Street, Silicon Valley<br />
-                    California, 94025
+                    Jadibuti, Kathmandu<br />
+                    Nepal, 44600
                   </span>
                 </li>
                 <li className="flex items-center">
                   <Phone className="mr-3 text-purple-400 flex-shrink-0" size={18} />
-                  <span className="text-white/70">+1 (555) 123-4567</span>
+                  <span className="text-white/70">+977-9844418804</span>
                 </li>
                 <li className="flex items-center">
                   <Mail className="mr-3 text-purple-400 flex-shrink-0" size={18} />
